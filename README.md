@@ -6,12 +6,12 @@ About the Project->Claim Management System is used to Manage Claims & their Sett
 
 Tech Stack:
 
-Backend-Spring Boot
-Front End-React
-Architecture-Microservices
+Backend-Spring Boot,
+Front End-React,
+Architecture-Microservices,
 Testing-Junit & Mockito
 
 Contributors:
-Aditya Sinha
-Bhanu Sekhar
+Aditya Sinha,
+Bhanu Sekhar,
 Gumpena Sai Vikas
