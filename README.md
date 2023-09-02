@@ -11,7 +11,6 @@ Front End-React,
 Architecture-Microservices,
 Testing-Junit & Mockito
 
-Contributors:
+Developers
 Aditya Sinha,
-Bhanu Sekhar,
-Gumpena Sai Vikas
+
